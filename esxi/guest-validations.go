@@ -207,7 +207,7 @@ func validateGuestOsType(guestos string) bool {
     windows9-64
     windows9
     windows9server-64
-	windows9Server64Guest
+    windows9Server64Guest
     windowshyperv
     winlonghorn-64
     winlonghorn
